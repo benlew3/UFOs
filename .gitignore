@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Class stuff
-practice.ipybn
+practice.ipynb 
 
 # Distribution / packaging
 .Python
