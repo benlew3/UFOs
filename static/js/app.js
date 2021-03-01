@@ -33,7 +33,7 @@ function updateFilters() {
     let changedElement = d3.select(this);
 
     // 4b. Save the value that was changed as a variable.
-    let elementValue = changeElement.property("value");
+    let elementValue = changedElement.property("value");
 
     // 4c. Save the id of the filter that was changed as a variable.
     let filterId = changedElement.attr("id");
