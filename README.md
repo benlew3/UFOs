@@ -11,15 +11,15 @@ On our website, we have set up easy navigation for our data. We have created fil
 ### Graphs and data
 Figure 1 <br>
 Home Screen - unfiltered.<br>
-![Figure 1](place holder)<br>
+![Figure 1](https://github.com/benlew3/UFOs/blob/main/static/images/home_page.PNG)<br>
 
 Figure 2 <br>
 Filter used to search Arizona.<br>
-![Figure 2](place holder)<br>
+![Figure 2](https://github.com/benlew3/UFOs/blob/main/static/images/filtered_page.PNG)<br>
 
 Figure 3 <br>
 Two filters used.<br>
-![Figure 3](place holder)<br>
+![Figure 3](https://github.com/benlew3/UFOs/blob/main/static/images/2_filters.PNG)<br>
 
 ## Summary
 Using HTML and JS libraries can be useful in allowing for dynamic filtering on websites for loaded datasets. Being able to filter information in real time is useful for both creating websites as well as being able to sort through data for people doing research on various things. To make things more streamlined, in certain fields, we could of created an outline of range, ie, dates allowed to be used, or how to write in states (only to use abbreviations). Another addition that would be useful is a "no results found" that would let the user know that there is no data for the criterias that were searched. Finally for the shape, it would of been more condusive if we used a drop down menu that would allow for the user to pick from a list, rather than guessing what shapes are in the data set.
